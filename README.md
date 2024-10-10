@@ -24,8 +24,12 @@ A SketchUp plugin that allows users to quickly toggle between inches and millime
 2. In the **Plugins** menu, select **Unit Switcher - Hussain**.
 3. The plugin will toggle between inches and millimeters, and the floating dialog box will show the current unit.
 
-## Screenshot (Optional)
-Add a screenshot of your plugin in action here.
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/DGB_N5NAU4Q/maxresdefault.jpg)](https://youtu.be/DGB_N5NAU4Q)
+
+Click the image above to watch a demo of how the Unit Switcher Plugin works in SketchUp.
+
 
 ## License
 
@@ -35,7 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Hussain**  
 - Created: October 2024  
-- Contact: (Your contact info if you want to provide it)
+- Contact: (mustangcrx@gmail.com)
 
 ---
 
